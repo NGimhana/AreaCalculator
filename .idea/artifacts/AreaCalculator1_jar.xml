@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AreaCalculator1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AreaCalculator1_jar</output-path>
+    <root id="archive" name="AreaCalculator1.jar">
+      <element id="module-output" name="AreaCalculator1" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/beust/jcommander/1.64/jcommander-1.64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.17/snakeyaml-1.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

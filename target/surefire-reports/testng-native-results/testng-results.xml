@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="44" started-at="2017-03-24T16:51:12Z" finished-at="2017-03-24T16:51:12Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="44" started-at="2017-03-24T16:51:12Z" finished-at="2017-03-24T16:51:12Z">
+      <class name="com.JETBRAINS.AreaCalculatorTest">
+        <test-method status="PASS" signature="testTestAreaCircle()[pri:0, instance:com.JETBRAINS.AreaCalculatorTest@c818063]" name="testTestAreaCircle" duration-ms="15" started-at="2017-03-24T22:21:12Z" finished-at="2017-03-24T22:21:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTestAreaCircle -->
+        <test-method status="PASS" signature="testTestAreaRectangle()[pri:0, instance:com.JETBRAINS.AreaCalculatorTest@c818063]" name="testTestAreaRectangle" duration-ms="0" started-at="2017-03-24T22:21:12Z" finished-at="2017-03-24T22:21:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTestAreaRectangle -->
+        <test-method status="PASS" signature="testTestAreaTriangle()[pri:0, instance:com.JETBRAINS.AreaCalculatorTest@c818063]" name="testTestAreaTriangle" duration-ms="0" started-at="2017-03-24T22:21:12Z" finished-at="2017-03-24T22:21:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTestAreaTriangle -->
+      </class> <!-- com.JETBRAINS.AreaCalculatorTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
